@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sushmavrai
-- 👀 I’m interested in data analytics and insights
-- 🌱 I’m currently enhancing my skills in data visualization and statistical analysis
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me sushmavishalrai@gmail.com
+- 👀 I’m passionate about data analytics, insights, and project management.
+- 🌱 I’m currently expanding my expertise in data visualization, statistical analysis, and agile project management.
+- 💼 I’m eager to collaborate on data-driven projects and project management initiatives.
+- 📫 You can reach me at sushmavishalrai@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Avid problem solver and continuous learner
+- ⚡ Fun fact: I’m an avid problem solver and a lifelong learner.
 
 <!---
 sushmavrai/sushmavrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
